@@ -1,0 +1,482 @@
+2022-07-27 16:11:30.005 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:11:30.122 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:11:33.254 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:11:34.090 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:11:39.123 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:11:39.396 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:11:39.846 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:11:41.917 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:11:43.966 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 16:11:44.154 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 16:11:45.817 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 16:11:47.702 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 16:11:48.584 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 16:11:48.818 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:11:50.016 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:11:50.020 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:11:53.006 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:11:53.502 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:11:58.178 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:11:58.396 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:11:58.749 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:12:00.976 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:12:01.407 INFO [main] [stepdefinations.loginStepDefination.enter_customer_email(loginStepDefination.java:268)] - Entered Email
+2022-07-27 16:12:01.653 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:12:03.403 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:12:03.406 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:12:05.139 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:12:05.525 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:12:10.367 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:12:10.567 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:12:11.030 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:12:13.351 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:12:14.373 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:12:15.074 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:12:16.230 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:12:16.232 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:12:19.382 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:12:19.875 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:12:24.667 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:12:24.915 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:12:27.310 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 16:12:27.479 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:12:27.679 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:13:25.482 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:13:25.551 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:13:27.182 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:13:27.785 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:13:31.349 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:13:31.682 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:13:32.081 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:13:34.293 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:13:36.400 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 16:13:36.583 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 16:13:37.722 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 16:13:40.086 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 16:13:41.000 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 16:13:41.261 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:13:42.509 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:13:42.511 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:13:44.596 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:13:45.074 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:13:49.025 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:13:49.233 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:13:49.514 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:13:51.499 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:13:51.813 INFO [main] [stepdefinations.loginStepDefination.enter_customer_email(loginStepDefination.java:268)] - Entered Email
+2022-07-27 16:13:52.019 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:13:52.461 INFO [main] [stepdefinations.loginStepDefination.user_should_found_email_in_the_search_table(loginStepDefination.java:290)] - user found email in the search table-PASS
+2022-07-27 16:13:52.655 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:13:53.753 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:13:53.756 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:13:56.341 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:13:56.741 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:14:01.465 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:14:01.700 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:14:02.016 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:14:03.973 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:14:04.739 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:14:05.374 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:14:06.523 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:14:06.527 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:14:08.503 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:14:08.898 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:14:12.665 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:14:12.898 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:14:15.241 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 16:14:15.386 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:14:15.574 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:30:12.964 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:30:13.024 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:30:16.044 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:30:16.460 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:30:21.435 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:30:21.450 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:30:21.588 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:30:23.393 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:30:26.968 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 16:30:26.993 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 16:30:28.102 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 16:30:30.654 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 16:30:30.803 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 16:30:34.954 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:30:35.914 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:30:35.922 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:30:38.996 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:30:39.387 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:30:43.838 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:30:43.849 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:30:43.966 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:30:45.903 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:30:46.081 INFO [main] [stepdefinations.loginStepDefination.enter_customer_email(loginStepDefination.java:268)] - Entered Email
+2022-07-27 16:30:47.541 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:30:47.543 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:30:50.128 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:30:50.389 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:30:54.595 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:30:54.604 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:30:54.703 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:30:57.024 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:30:58.523 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:30:58.525 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:31:00.462 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:31:00.714 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:31:04.202 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:31:04.221 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:31:06.536 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 16:31:06.547 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:31:06.648 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:40:51.487 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:40:51.576 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:40:54.296 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:40:54.658 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:40:59.191 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:40:59.218 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:40:59.424 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:41:01.233 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:41:03.381 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 16:41:03.404 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 16:41:04.489 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 16:41:06.453 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 16:41:06.603 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 16:41:10.751 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:41:11.875 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:41:11.879 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:41:14.753 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:41:15.003 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:41:19.134 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:41:19.155 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:41:19.267 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:41:21.737 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:41:21.939 INFO [main] [stepdefinations.loginStepDefination.enter_customer_email(loginStepDefination.java:268)] - Entered Email
+2022-07-27 16:41:22.008 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:41:22.255 INFO [main] [stepdefinations.loginStepDefination.user_should_found_email_in_the_search_table(loginStepDefination.java:290)] - user found email in the search table-PASS
+2022-07-27 16:41:22.356 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:41:23.443 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:41:23.445 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:41:26.439 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:41:26.668 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:41:30.996 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:41:31.007 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:41:31.117 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:41:32.888 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:41:33.228 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:41:33.458 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:41:34.567 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:41:34.569 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:41:37.208 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:41:37.521 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:41:41.627 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:41:41.636 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:41:43.527 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 16:41:43.538 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:41:43.603 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:49:58.976 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:49:59.057 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:50:01.984 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:50:02.582 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:50:07.352 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:50:07.598 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:50:07.907 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:50:09.863 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:50:12.145 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 16:50:12.362 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 16:50:13.576 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 16:50:15.562 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 16:50:16.764 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 16:50:17.009 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:50:18.230 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:50:18.235 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:50:21.307 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:50:21.730 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:50:26.845 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:50:27.081 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:50:27.325 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:50:29.172 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:50:29.538 INFO [main] [stepdefinations.loginStepDefination.enter_customer_email(loginStepDefination.java:268)] - Entered Email
+2022-07-27 16:50:29.736 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:50:30.079 INFO [main] [stepdefinations.loginStepDefination.user_should_found_email_in_the_search_table(loginStepDefination.java:290)] - user found email in the search table-PASS
+2022-07-27 16:50:30.295 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:50:31.366 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:50:31.371 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:50:34.470 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:50:34.844 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:50:39.494 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:50:39.706 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:50:40.024 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:50:42.233 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:50:42.984 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:50:43.587 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:50:44.690 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:50:44.693 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:50:46.296 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:50:46.697 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:50:50.778 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:50:50.980 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:50:53.232 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 16:50:53.365 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:50:53.575 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:52:57.320 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:52:57.396 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:53:00.326 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:53:00.887 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:53:05.814 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:53:06.049 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:53:06.431 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:53:08.418 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:53:10.621 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 16:53:10.835 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 16:53:12.260 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 16:53:14.811 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 16:53:15.121 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 16:53:15.356 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:53:16.566 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:53:16.569 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:53:19.565 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:53:19.979 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:53:25.080 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:53:25.302 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:53:25.558 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:53:27.858 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:53:28.185 INFO [main] [stepdefinations.loginStepDefination.enter_customer_email(loginStepDefination.java:268)] - Entered Email
+2022-07-27 16:53:28.458 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:53:28.840 INFO [main] [stepdefinations.loginStepDefination.user_should_found_email_in_the_search_table(loginStepDefination.java:290)] - user found email in the search table-PASS
+2022-07-27 16:53:29.085 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:53:30.165 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:53:30.166 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:53:33.201 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:53:33.587 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:53:38.302 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:53:38.549 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:53:38.825 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:53:40.731 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:53:41.519 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:53:42.125 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:53:43.264 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:53:43.269 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:53:46.287 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:53:46.694 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:53:51.457 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:53:51.648 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:53:53.976 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 16:53:54.137 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:53:54.310 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:57:19.938 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:57:20.019 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:57:23.253 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:57:23.613 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:57:28.240 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:57:28.277 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:57:28.402 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:57:30.107 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:57:32.454 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 16:57:32.479 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 16:57:33.591 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 16:57:35.359 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 16:57:36.182 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 16:57:36.245 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:57:37.440 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:57:37.445 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:57:40.267 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:57:40.482 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:57:45.225 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:57:45.242 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:57:45.340 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:57:47.211 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:57:47.343 INFO [main] [stepdefinations.loginStepDefination.enter_customer_email(loginStepDefination.java:268)] - Entered Email
+2022-07-27 16:57:47.466 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:57:47.779 INFO [main] [stepdefinations.loginStepDefination.user_should_found_email_in_the_search_table(loginStepDefination.java:290)] - user found email in the search table-PASS
+2022-07-27 16:57:47.851 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:57:48.855 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:57:48.857 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:57:52.105 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:57:52.329 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:57:57.007 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:57:57.019 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 16:57:57.108 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 16:57:59.080 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 16:57:59.407 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 16:57:59.773 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:58:00.825 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:58:00.827 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:58:02.939 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 16:58:03.161 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 16:58:07.862 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 16:58:07.874 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:58:10.179 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 16:58:10.189 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 16:58:10.236 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 16:59:56.839 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 16:59:56.911 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 16:59:59.724 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:00:00.067 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:00:04.850 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:00:04.862 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:00:05.031 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:00:06.867 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:00:08.714 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 17:00:08.735 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 17:00:09.758 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 17:00:11.350 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 17:00:12.005 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 17:00:12.085 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 17:00:13.184 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:00:13.185 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:00:15.108 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:00:15.324 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:00:19.770 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:00:19.783 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:00:19.870 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:00:21.682 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:00:21.850 INFO [main] [stepdefinations.loginStepDefination.enter_customer_email(loginStepDefination.java:268)] - Entered Email
+2022-07-27 17:00:23.062 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:00:23.067 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:00:26.351 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:00:26.589 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:00:31.045 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:00:31.056 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:00:31.152 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:00:33.150 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:00:34.857 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:00:34.859 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:00:37.571 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:00:37.790 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:00:42.293 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:00:42.306 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 17:00:44.783 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 17:00:44.793 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 17:00:44.874 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 17:09:20.475 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:09:20.545 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:09:23.409 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:09:23.804 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:09:28.664 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:09:28.676 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:09:28.794 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:09:31.039 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:09:32.747 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 17:09:32.764 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 17:09:33.943 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 17:09:36.071 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 17:09:36.313 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 17:09:36.384 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 17:09:37.436 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:09:37.438 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:09:40.848 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:09:41.060 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:09:45.876 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:09:45.894 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:09:45.993 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:09:49.608 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:09:49.765 INFO [main] [stepdefinations.loginStepDefination.enter_customer_email(loginStepDefination.java:268)] - Entered Email
+2022-07-27 17:09:50.973 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:09:50.977 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:09:54.335 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:09:54.562 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:09:59.156 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:09:59.168 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:09:59.281 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:10:01.217 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:10:02.609 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:10:02.610 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:10:05.228 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:10:05.446 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:10:09.711 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:10:09.736 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 17:10:12.381 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 17:10:12.388 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 17:10:12.451 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 17:18:15.535 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:18:15.631 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:18:18.583 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:18:18.879 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:18:23.674 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:18:23.696 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:18:23.899 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:18:25.907 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:18:27.987 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 17:18:28.010 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 17:18:29.020 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 17:18:30.904 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 17:18:31.683 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 17:18:31.732 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 17:18:32.905 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:18:32.922 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:18:35.696 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:18:36.097 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:18:41.190 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:18:41.229 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:18:41.414 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:18:43.060 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:18:43.061 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:18:46.144 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:18:46.383 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:18:51.501 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:18:51.512 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:18:51.687 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:18:53.969 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:18:54.521 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 17:18:56.681 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:18:56.685 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:18:58.257 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:18:58.443 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:19:01.726 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:19:01.733 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 17:19:04.063 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 17:19:04.070 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 17:19:04.115 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 17:22:25.859 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:22:25.948 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:22:29.488 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:22:29.732 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:22:40.948 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:22:42.367 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:22:42.371 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:23:15.085 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:23:15.391 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:23:20.712 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:23:50.496 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:23:50.611 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:23:53.614 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:23:53.995 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:23:58.520 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:23:58.535 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:23:58.711 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:24:01.482 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:24:06.149 INFO [main] [stepdefinations.loginStepDefination.click_on_add_new_button(loginStepDefination.java:210)] - User clicked on NEW button
+2022-07-27 17:24:06.172 INFO [main] [stepdefinations.loginStepDefination.user_can_view_add_new_customer_page(loginStepDefination.java:219)] - User can view Add new customer page-Test passed
+2022-07-27 17:24:07.289 INFO [main] [stepdefinations.loginStepDefination.user_enter_customer_info(loginStepDefination.java:239)] - User entered customer information
+2022-07-27 17:24:09.314 INFO [main] [stepdefinations.loginStepDefination.click_on_save_button(loginStepDefination.java:245)] - Clicked on Save Button
+2022-07-27 17:24:10.031 INFO [main] [stepdefinations.loginStepDefination.user_can_view_confirmation_message(loginStepDefination.java:256)] - User can view confirmation message-PASS
+2022-07-27 17:24:10.097 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 17:24:11.159 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:24:11.162 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:24:13.457 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:24:13.853 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:24:17.759 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:24:17.769 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:24:17.894 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:24:20.490 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:24:20.849 INFO [main] [stepdefinations.loginStepDefination.enter_customer_email(loginStepDefination.java:268)] - Entered Email
+2022-07-27 17:24:20.982 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 17:24:21.199 INFO [main] [stepdefinations.loginStepDefination.user_should_found_email_in_the_search_table(loginStepDefination.java:290)] - user found email in the search table-PASS
+2022-07-27 17:24:21.298 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 17:24:22.473 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:24:22.478 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:24:24.372 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:24:24.697 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:24:30.032 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:24:30.048 INFO [main] [stepdefinations.loginStepDefination.user_can_view_dashboad(loginStepDefination.java:186)] - Test passed: user Can View Dashbaord passed
+2022-07-27 17:24:30.203 INFO [main] [stepdefinations.loginStepDefination.user_click_on_customers_menu(loginStepDefination.java:197)] - User clicked on customers menu
+2022-07-27 17:24:32.197 INFO [main] [stepdefinations.loginStepDefination.click_on_customers_menu_item(loginStepDefination.java:204)] - User clicked on customers MENU ITEM
+2022-07-27 17:24:32.515 INFO [main] [stepdefinations.loginStepDefination.click_on_search_button(loginStepDefination.java:274)] - Clicked on Search Button
+2022-07-27 17:24:32.683 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed
+2022-07-27 17:24:33.747 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:87)] - Setup-1 executed
+2022-07-27 17:24:33.753 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:114)] - chrome browser launched
+2022-07-27 17:24:36.312 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:120)] - url opened
+2022-07-27 17:24:36.527 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:128)] - email address and password entered
+2022-07-27 17:24:41.180 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:136)] - Clicked on login button
+2022-07-27 17:24:41.187 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 17:24:43.421 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:165)] - user clicked on logout link.
+2022-07-27 17:24:43.430 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:147)] - Test passed: Login feature :Page title matched.
+2022-07-27 17:24:43.480 INFO [main] [stepdefinations.CloseStepDef.close_browser(CloseStepDef.java:9)] - Browser closed

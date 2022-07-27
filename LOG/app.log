@@ -1,0 +1,9 @@
+2022-07-24 19:07:21.911 INFO [main] [stepdefinations.loginStepDefination.setup1(loginStepDefination.java:61)] - Setup-1 executed
+2022-07-24 19:07:21.967 INFO [main] [stepdefinations.loginStepDefination.user_launch_chrome_browser(loginStepDefination.java:88)] - chrome browser launched
+2022-07-24 19:07:23.602 INFO [main] [stepdefinations.loginStepDefination.user_opens_url(loginStepDefination.java:94)] - url opened
+2022-07-24 19:07:23.992 INFO [main] [stepdefinations.loginStepDefination.user_enters_email_as_and_password_as(loginStepDefination.java:102)] - email address and password entered
+2022-07-24 19:07:27.979 INFO [main] [stepdefinations.loginStepDefination.click_on_login(loginStepDefination.java:110)] - Clicked on login button
+2022-07-24 19:07:28.004 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:121)] - Test passed: Login feature :Page title matched.
+2022-07-24 19:07:30.120 INFO [main] [stepdefinations.loginStepDefination.user_click_on_log_out_link(loginStepDefination.java:139)] - user clicked on logout link.
+2022-07-24 19:07:30.129 WARN [main] [stepdefinations.loginStepDefination.page_title_should_be(loginStepDefination.java:121)] - Test passed: Login feature :Page title matched.
+2022-07-24 19:07:30.233 INFO [main] [stepdefinations.loginStepDefination.close_browser(loginStepDefination.java:146)] - Browser closed
